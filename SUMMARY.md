@@ -35,7 +35,8 @@
 
 ## 🖥️ APPLICATION SECURITY
 
-* [📂 How Web Works](application-security/how-web-works.md)
+* [📂 How Web Works](application-security/how-web-works/README.md)
+  * [Web Fundamentals & HTTP Protocol: A Security Perspective](application-security/how-web-works/web-fundamentals-and-http-protocol-a-security-perspective.md)
 * [📂  OWASP Top 10](application-security/owasp-top-10.md)
 * [📂 API & Mobile Security](application-security/api-and-mobile-security.md)
 
