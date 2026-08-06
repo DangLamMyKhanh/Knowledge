@@ -45,7 +45,8 @@
 ***
 
 * [📂 Scripts (Python)](scripts-python.md)
-* [📂 Cybersecurity Tools](cybersecurity-tools.md)
+* [📂 Cybersecurity Tools](cybersecurity-tools/README.md)
+  * [Burp Suite](cybersecurity-tools/burp-suite.md)
 
 ## 📝 METHODOLOGY ARCHIVE
 
