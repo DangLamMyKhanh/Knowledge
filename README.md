@@ -52,7 +52,7 @@ I am always open to discussing Defensive Security, SOC Operations, or collaborat
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/my-khanh-dang-lam/](https://www.linkedin.com/in/my-khanh-dang-lam/)
 * 🐙 **GitHub:** [https://github.com/DangLamMyKhanh](https://github.com/DangLamMyKhanh)
 * 🎯 **TryHackMe:** [https://tryhackme.com/p/Argenvale](https://tryhackme.com/p/Argenvale)
-* ✉️ **Email:** \[[danglammykhanh@gmail.com](https://www.google.com/url?sa=E\&q=mailto%3Adanglammykhanh%40email.com)] (Thay bằng email thật của bạn)
+* ✉️ **Email:** [danglammykhanh@gmail.com](https://www.google.com/url?sa=E\&q=mailto%3Adanglammykhanh%40email.com)
 
 ***
 
