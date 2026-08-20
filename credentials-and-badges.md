@@ -1,0 +1,49 @@
+# 📜 Credentials & Badges
+
+### 1. 🛡️ Core Certifications
+
+These are my primary, industry-recognized certifications focusing on Network Infrastructure and Security Operations.
+
+{% embed url="https://www.credly.com/badges/f4057633-077f-45a9-9607-8771fa4cf3dd/public_url" %}
+
+{% embed url="https://www.credly.com/badges/da713580-f354-4a91-b367-8460246f122b/public_url" %}
+
+***
+
+### 2. 🧠 Specialized Training & Tech&#x20;
+
+Continuous learning through university programs and global platforms to expand my mindset in AI, Ethics, and Programming.
+
+* 🎓 [**CertNexus Certified Ethical Emerging Technologist** (Coursera)](https://coursera.org/share/6e904cde3ebd3f9c9c62379f49c7a207)
+* 🤖 [**Ethics of Artificial Intelligence** (Coursera)](https://coursera.org/share/48a86194af8de96f119944900df1baec)
+* 🐍 **Python Object-Oriented Programming** (Coursera): [**\[Part 1\]**](https://coursera.org/share/6433c2524b63f7f10832873f61e60fa2) | [**\[Part 2\]**](https://coursera.org/share/a319e9d284b162c611e34468824821ab) | [**\[Part 3\]**](https://coursera.org/share/29fa3844692f41584b28d3fe42dc7d8e) | [**\[Part 4\]**](https://coursera.org/share/c2c80ee6a589893a09636f0b93b22fc8)
+* 📚 [**Academic Skills for University Success Specialization** (Coursera)](https://coursera.org/share/c08f9176374910732ce59cbcf217d3e7)
+
+***
+
+#### 3. 🎯 Practical Skills & Badges&#x20;
+
+Proof of hands-on execution in simulated environments, CTF challenges, and continuous skill building.
+
+[🔗 View my live TryHackMe Public Profile](https://tryhackme.com/p/Argenvale)
+
+**CTF Participations:**
+
+* 🚩 V1T CTF 2026 - Participant
+* 🚩 HKCERT CTF 2025 - Participant
+
+***
+
+#### 4. 🤝 Community & Continuous Learning&#x20;
+
+Beyond formal certifications, I actively participate in cybersecurity events, webinars, and community activities to stay updated with the threat landscape.
+
+
+
+***
+
+### 📂 Verification Archive (Bản cứng PDF)
+
+To view and verify all my high-resolution certificates, participation records, and badges in one place, please access my secure repository:
+
+👉 **\[Access My Google Drive Archive Here]** (Bôi đen dòng này, ấn Ctrl+K và dán link Drive "Anyone can view" của bạn vào đây).

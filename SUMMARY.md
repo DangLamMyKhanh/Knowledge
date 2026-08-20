@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [🛡️ Đặng Lâm Mỹ Khánh (Argenvale)](README.md)
+* [📜 Credentials & Badges](credentials-and-badges.md)
 
 ## 🌐 NETWORKING SECURITY
 

@@ -20,12 +20,40 @@ layout:
     visible: true
 ---
 
-# Welcome
+# 🛡️ Đặng Lâm Mỹ Khánh (Argenvale)
 
-Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+**Aspiring SOC Analyst | Defensive Security Enthusiast**
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Welcome to my digital brain! 👋
 
-### Jump right in
+I am a cybersecurity practitioner focusing on **Defensive Security** and **Security Operations (SOC)**. To me, cybersecurity is not just about passing exams or reading theories—it is about **tactical execution, hands-on methodology, and relentless self-directed learning**.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-bolt">:bolt:</i></h4></td><td><strong>Quickstart</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>Editor basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+This GitBook serves as my personal encyclopedia. It is where I document my methodology, dissect logs, break down CTF challenges, and build my defensive arsenal from the ground up.
+
+> _"In the world of security, theory teaches you how it should work. Hands-on practice teaches you how it actually breaks—and how to defend it."_
+
+***
+
+### 🏆 Wall of Achievements
+
+_Core fundamental certifications in Networking and Security Operations._\
+👉[ **View my full Credentials & Coursera Specializations**](credentials-and-badges.md)
+
+***
+
+### 📖 What's Inside This Wiki?
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>🌐 Networking Security</strong><br>Fundamentals, Protocols, CCNA Infrastructure, and Network Forensics.</td></tr><tr><td><strong>🐧 OS &#x26; System Admin</strong><br>Linux for Security, Windows Internals, and Virtualization setups.</td></tr><tr><td><strong>🛡️ SOC Operations</strong><br>Log Management, SIEM Mastery, Threat Intel, and Phishing Analysis.</td></tr><tr><td><strong>🔍 DFIR</strong><br>Digital Forensics &#x26; Incident Response playbooks and methodologies.</td></tr><tr><td><strong>💿 Malware Analysis</strong><br>Static/Dynamic Analysis and Reverse Engineering techniques.</td></tr><tr><td>💻 <strong>Application Security</strong><br>Web architecture, OWASP Top 10, API Security, and Reconnaissance.</td></tr><tr><td><strong>🧠 AI for Cybersecurity</strong><br>Security ML Models, Data Processing, and Emerging AI Threats.</td></tr><tr><td><strong>🛠️ Tools &#x26; Cheat Sheets</strong><br>Custom Python scripts and essential defensive cybersecurity tools.</td></tr><tr><td>📝 <strong>Methodology Archive</strong><br>Personal security methodologies and practical CTF Write-ups.</td></tr></tbody></table>
+
+### 📬 Let's Connect
+
+I am always open to discussing Defensive Security, SOC Operations, or collaborating on CTF challenges. Feel free to reach out to me!
+
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/my-khanh-dang-lam/](https://www.linkedin.com/in/my-khanh-dang-lam/)
+* 🐙 **GitHub:** [https://github.com/DangLamMyKhanh](https://github.com/DangLamMyKhanh)
+* 🎯 **TryHackMe:** [https://tryhackme.com/p/Argenvale](https://tryhackme.com/p/Argenvale)
+* ✉️ **Email:** \[[danglammykhanh@gmail.com](https://www.google.com/url?sa=E\&q=mailto%3Adanglammykhanh%40email.com)] (Thay bằng email thật của bạn)
+
+***
+
+<br>
