@@ -41,6 +41,8 @@
 * [📂  OWASP Top 10](application-security/owasp-top-10.md)
 * [📂 API & Mobile Security](application-security/api-and-mobile-security.md)
 * [Subdomain Enumeration: Mapping the Attack Surface](application-security/subdomain-enumeration-mapping-the-attack-surface.md)
+* [IDOR (Insecure Direct Object Reference)](application-security/idor-insecure-direct-object-reference.md)
+* [Authentication Bypass](application-security/authentication-bypass.md)
 * [Content Discovery](application-security/content-discovery.md)
 * [📂 Web Reconnaissance & Methodology](application-security/web-reconnaissance-and-methodology/README.md)
   * [Walking an Application: Web Reconnaissance & DevTools](application-security/web-reconnaissance-and-methodology/walking-an-application-web-reconnaissance-and-devtools.md)
