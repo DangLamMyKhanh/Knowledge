@@ -35,6 +35,7 @@ Proof of hands-on execution in simulated environments, CTF challenges, and conti
 **Badges**
 
 * TryHackMe | [Introduction to Web Hacking](https://tryhackme.com/Argenvale/badges/intro-to-web-hacking?utm_campaign=social_share\&utm_medium=social\&utm_content=badge\&utm_source=copy\&sharerId=69e4cdf4dd48fedf8e3aee12)
+* TryHackMe | [OWASP Top 10 (2025)](https://tryhackme.com/Argenvale/badges/owasp-10?utm_campaign=social_share\&utm_medium=social\&utm_content=badge\&utm_source=copy\&sharerId=69e4cdf4dd48fedf8e3aee12)
 
 ***
 
