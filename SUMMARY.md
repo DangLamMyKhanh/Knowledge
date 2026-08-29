@@ -44,8 +44,9 @@
 * [IDOR (Insecure Direct Object Reference)](application-security/idor-insecure-direct-object-reference.md)
 * [Authentication Bypass](application-security/authentication-bypass.md)
 * [Content Discovery](application-security/content-discovery.md)
-* [📂 Web Reconnaissance & Methodology](application-security/web-reconnaissance-and-methodology/README.md)
-  * [Walking an Application: Web Reconnaissance & DevTools](application-security/web-reconnaissance-and-methodology/walking-an-application-web-reconnaissance-and-devtools.md)
+* [Walking an Application: Web Reconnaissance & DevTools](application-security/walking-an-application-web-reconnaissance-and-devtools.md)
+* [File Inclusion: Path Traversal, LFI & RFI](application-security/file-inclusion-path-traversal-lfi-and-rfi.md)
+* [SSRF: Server-Side Request Forgery](application-security/ssrf-server-side-request-forgery.md)
 
 ## 🛠️ TOOLS & CHEAT SHEETS
 
