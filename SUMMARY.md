@@ -36,23 +36,29 @@
 
 ## 🖥️ APPLICATION SECURITY
 
-* [📂 How Web Works](application-security/how-web-works/README.md)
-  * [Web Fundamentals & HTTP Protocol: A Security Perspective](application-security/how-web-works/web-fundamentals-and-http-protocol-a-security-perspective.md)
-* [📂  OWASP Top 10](application-security/owasp-top-10.md)
-* [📂 API & Mobile Security](application-security/api-and-mobile-security.md)
-* [Subdomain Enumeration: Mapping the Attack Surface](application-security/subdomain-enumeration-mapping-the-attack-surface.md)
+* [📂  OWASP Top 10](application-security/owasp-top-10/README.md)
+  * [Insecure Data Handling](application-security/owasp-top-10/insecure-data-handling.md)
+  * [Application Design Flaws](application-security/owasp-top-10/application-design-flaws.md)
+  * [IAAA Failures](application-security/owasp-top-10/iaaa-failures.md)
+* [Subdomain Enumeration: Mapping the Attack Surface](application-security/subdomain-enumeration-mapping-the-attack-surface/README.md)
+  * [Web Fundamentals & HTTP Protocol: A Security Perspective](application-security/subdomain-enumeration-mapping-the-attack-surface/web-fundamentals-and-http-protocol-a-security-perspective.md)
 * [IDOR (Insecure Direct Object Reference)](application-security/idor-insecure-direct-object-reference.md)
 * [Authentication Bypass](application-security/authentication-bypass.md)
 * [Content Discovery](application-security/content-discovery.md)
 * [Walking an Application: Web Reconnaissance & DevTools](application-security/walking-an-application-web-reconnaissance-and-devtools.md)
 * [File Inclusion: Path Traversal, LFI & RFI](application-security/file-inclusion-path-traversal-lfi-and-rfi.md)
 * [SSRF: Server-Side Request Forgery](application-security/ssrf-server-side-request-forgery.md)
+* [Race Conditions](application-security/race-conditions.md)
+* [Cross-Site Scripting (XSS)](application-security/cross-site-scripting-xss.md)
+* [Command Injection (RCE)](application-security/command-injection-rce.md)
+* [SQL Injection (SQLi)](application-security/sql-injection-sqli.md)
 
 ## 🛠️ TOOLS & CHEAT SHEETS
 
 ***
 
 * [📂 Scripts (Python)](scripts-python.md)
+* [Web Attack Signatures](web-attack-signatures.md)
 * [📂 Cybersecurity Tools](cybersecurity-tools/README.md)
   * [Burp Suite](cybersecurity-tools/burp-suite.md)
 
