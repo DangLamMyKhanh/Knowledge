@@ -13,7 +13,9 @@
 ## 🐧 OS & SYSTEM ADMINISTRATION
 
 * [📂 Linux for Security](os-and-system-administration/linux-for-security.md)
-* [📂 Windows Internal](os-and-system-administration/windows-internal.md)
+* [Linux OS Fundamentals](os-and-system-administration/linux-os-fundamentals.md)
+* [📂 Windows Internal](os-and-system-administration/windows-internal/README.md)
+  * [Windows OS Fundamentals](os-and-system-administration/windows-internal/windows-os-fundamentals.md)
 * [📂 Virtualization](os-and-system-administration/virtualization.md)
 
 ## 🛡️ SOC OPERATIONS & MONITORING
@@ -68,10 +70,11 @@
 
 ## 🧠 AI FOR CYBERSECURITY
 
-* [📂 Data Processing for Security](ai-for-cybersecurity/data-processing-for-security.md)
-* [📂 Security Machine Learning Models](ai-for-cybersecurity/security-machine-learning-models.md)
-* [📂 Model Evaluation](ai-for-cybersecurity/model-evaluation.md)
-* [📂 Emerging AI Threats](ai-for-cybersecurity/emerging-ai-threats.md)
+* [📂 Data Processing for Security](ai-for-cybersecurity/data-processing-for-security/README.md)
+  * [Programming & Math Foundations for AI in Security](ai-for-cybersecurity/data-processing-for-security/programming-and-math-foundations-for-ai-in-security.md)
+  * [Data Preprocessing & Security Pipeline Design](ai-for-cybersecurity/data-processing-for-security/data-preprocessing-and-security-pipeline-design.md)
+* [Machine Learning Algorithms & Model Evaluation in Cyber Security](ai-for-cybersecurity/machine-learning-algorithms-and-model-evaluation-in-cyber-security.md)
+* [Emerging AI Threats](ai-for-cybersecurity/emerging-ai-threats.md)
 
 ## Getting Started
 
