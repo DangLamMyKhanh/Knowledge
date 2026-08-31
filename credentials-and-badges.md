@@ -29,13 +29,16 @@ Proof of hands-on execution in simulated environments, CTF challenges, and conti
 
 **CTF Participations:**
 
-* 🚩 V1T CTF 2026 - Participant
-* 🚩 HKCERT CTF 2025 - Participant
+* 🚩 V1T CTF 2026 - Participant (Solo)
+* 🚩 HKCERT CTF 2025 - Participant (Solo)
+* 🚩 DDC CTF 2026 - Participant (Team size: 4)
 
 **Badges**
 
 * TryHackMe | [Introduction to Web Hacking](https://tryhackme.com/Argenvale/badges/intro-to-web-hacking?utm_campaign=social_share\&utm_medium=social\&utm_content=badge\&utm_source=copy\&sharerId=69e4cdf4dd48fedf8e3aee12)
 * TryHackMe | [OWASP Top 10 (2025)](https://tryhackme.com/Argenvale/badges/owasp-10?utm_campaign=social_share\&utm_medium=social\&utm_content=badge\&utm_source=copy\&sharerId=69e4cdf4dd48fedf8e3aee12)
+* TryHackMe | [Linux Fundamental](https://tryhackme.com/Argenvale/badges/terminaled?utm_campaign=social_share\&utm_medium=social\&utm_content=badge\&utm_source=copy\&sharerId=69e4cdf4dd48fedf8e3aee12)
+* TryHackMe | [Wireshark](https://tryhackme.com/Argenvale/badges/wireshark?utm_campaign=social_share\&utm_medium=social\&utm_content=badge\&utm_source=copy\&sharerId=69e4cdf4dd48fedf8e3aee12)
 
 ***
 
