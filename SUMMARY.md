@@ -3,20 +3,12 @@
 * [🛡️ Đặng Lâm Mỹ Khánh (Argenvale)](README.md)
 * [📜 Credentials & Badges](credentials-and-badges.md)
 
-## 🌐 NETWORKING SECURITY
-
-* [📂 Fundamentals](networking-security/fundamentals.md)
-* [📂 Protocols & Security](networking-security/protocols-and-security.md)
-* [📂 Network Infrastructure (CCNA 2, 3)](networking-security/network-infrastructure-ccna-2-3.md)
-* [📂 Network Forensics](networking-security/network-forensics.md)
-
 ## 🐧 OS & SYSTEM ADMINISTRATION
 
 * [📂 Linux for Security](os-and-system-administration/linux-for-security.md)
 * [Linux OS Fundamentals](os-and-system-administration/linux-os-fundamentals.md)
 * [📂 Windows Internal](os-and-system-administration/windows-internal/README.md)
   * [Windows OS Fundamentals](os-and-system-administration/windows-internal/windows-os-fundamentals.md)
-* [📂 Virtualization](os-and-system-administration/virtualization.md)
 
 ## 🛡️ SOC OPERATIONS & MONITORING
 
