@@ -10,24 +10,6 @@
 * [📂 Windows Internal](os-and-system-administration/windows-internal/README.md)
   * [Windows OS Fundamentals](os-and-system-administration/windows-internal/windows-os-fundamentals.md)
 
-## 🛡️ SOC OPERATIONS & MONITORING
-
-* [📂 Log Management](soc-operations-and-monitoring/log-management.md)
-* [📂 SIEM Mastery](soc-operations-and-monitoring/siem-mastery.md)
-* [📂 Threat Intelligence](soc-operations-and-monitoring/threat-intelligence.md)
-* [📂 Phishing Analysis](soc-operations-and-monitoring/phishing-analysis.md)
-
-## 🔍  DFIR - FORENSICS & INCIDENT RESPONSE
-
-* [📂  Incident Response](dfir-forensics-and-incident-response/incident-response.md)
-* [📂  Digital Forensics](dfir-forensics-and-incident-response/digital-forensics.md)
-
-## 💿 MALWARE ANALYSIS & REVERSE ENGINEERING
-
-* [📂 Static Analysis](malware-analysis-and-reverse-engineering/static-analysis.md)
-* [📂 Dynamic Analysis](malware-analysis-and-reverse-engineering/dynamic-analysis.md)
-* [📂  Reverse Engineering](malware-analysis-and-reverse-engineering/reverse-engineering.md)
-
 ## 🖥️ APPLICATION SECURITY
 
 * [📂  OWASP Top 10](application-security/owasp-top-10/README.md)
@@ -55,10 +37,6 @@
 * [Web Attack Signatures](web-attack-signatures.md)
 * [📂 Cybersecurity Tools](cybersecurity-tools/README.md)
   * [Burp Suite](cybersecurity-tools/burp-suite.md)
-
-## 📝 METHODOLOGY ARCHIVE
-
-* [📂 Write-ups](methodology-archive/write-ups.md)
 
 ## 🧠 AI FOR CYBERSECURITY
 
